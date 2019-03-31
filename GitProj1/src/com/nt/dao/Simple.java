@@ -11,5 +11,7 @@ public class Simple {
 		System.out.println("rama devi");
 		
 		System.out.println("gopal lal sharma");
+		
+		sysout
 	}
 }
