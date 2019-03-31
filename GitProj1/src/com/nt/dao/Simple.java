@@ -12,6 +12,6 @@ public class Simple {
 		
 		System.out.println("gopal lal sharma");
 		
-		sysout
+		System.out.println("suresh G");
 	}
 }
