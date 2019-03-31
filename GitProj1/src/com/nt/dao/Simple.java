@@ -7,5 +7,6 @@ public class Simple {
 		System.out.println("Vishnu ");
 		
 		System.out.println("VKS");
+		System.out.println("madan lal sharma");
 	}
 }
